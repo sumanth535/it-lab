@@ -1,0 +1,363 @@
+1> vijaya college
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VIJAYA COLLEGE</title>
+</head>
+<body bgcolor="white" text="black">
+    <center><h1>VIJAYA COLLEGE</h1></center>
+    <h4><font color="blue" size="28"><marquee direction="left" behavior="alternate">WELCOME TO VIJAYA COLLEGE</marquee></font></h4>
+    <center><img src="college.JPG" width="400" height="400" align="center"></center>
+    <h3><a href="about_college.html">CLICK HERE TO VIEW HISTORY OF COLLEGE</a></h3>
+</body>
+</html>
+(No Title)
+You sent
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ABOUT VIJAYA COLLEGE</title>
+</head>
+<body bgcolor="white" text="black">
+    <center><h1>VIJAYA COLLEGE</h1></center>
+    <h2><u><b>HISTORY</b></u></h2>
+    <p>VIJAYA COLLEGE Situated in Basavanagudi, known for its old world charm and traditional culture.</p>
+    <p>Vijaya College, established in 1945, is a well-known and historic institution in South Bengaluru.</p>
+    <marquee direction="right"><img src="vijaya.JPG" width="300" height="300"></marquee>
+    <center><h3><a href="IT_LAB4.html">Back</a></h3></center>
+</body>
+</html>
+   
+
+2>time table
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TIME TABLE</title>
+</head>
+<body text="black" bgcolor="white">
+    <center>
+        <h2><b>Time Table</b></h2>
+        <table border="1" bordercolor="black" bgcolor="yellow" cellspacing="2" cellpadding="10">
+            <caption><b>BCA IV SEMESTER</b></caption>
+            <tr>
+                <th rowspan="2"><b>DAYS</b></th>
+                <th colspan="6" align="center"><b>TIME</b></th>
+            </tr>
+            <tr>
+                <th>9-10</th>
+                <th>10:30-11:30</th>
+                <th>11:30-12:30</th>
+                <th>12:30-01:30</th>
+                <th>BREAK</th>
+                <th>02:15-03:15</th>
+            </tr>
+            <tr>
+                <td><b>MON</b></td>
+                <td>IT</td>
+                <td>ADA</td>
+                <td>SE</td>
+                <td>LANG1</td>
+                <td rowspan="6"><b><font color="red">LUNCH BREAK</font></b></td>
+                <td>1-10b</td>
+            </tr>
+            <tr>
+                <td><b>TUE</b></td>
+                <td>ADA</td>
+                <td>IT</td>
+                <td>SE</td>
+                <td>OE</td>
+                <td>ADA-10b</td>
+            </tr>
+            <tr>
+                <td><b>WED</b></td>
+                <td>SE</td>
+                <td>ADA</td>
+                <td>IC</td>
+                <td>LANG1</td>
+                <td>IT-10b</td>
+            </tr>
+            <tr>
+                <td><b>THUR</b></td>
+                <td>OE</td>
+                <td>IC</td>
+                <td>SKY?</td>
+                <td>LANG11</td>
+                <td>APA-10b</td>
+            </tr>
+            <tr>
+                <td><b>FRI</b></td>
+                <td>LANG1</td>
+                <td>17</td>
+                <td>LANG2</td>
+                <td>IC</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>SAT</b></td>
+                <td>IT</td>
+                <td>OF</td>
+                <td>ADA</td>
+                <td>GE</td>
+                <td></td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
+
+
+3>college website
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vijaya College</title>
+</head>
+
+<body style="background-color: #CC9998; color: black;">
+    <center>
+        <h1>Vijaya College</h1>
+    </center>
+    <h4>
+        <font color="blue">
+            <marquee direction="left" behavior="alternate">Welcome to Vijaya College</marquee>
+        </font>
+    </h4>
+    <p>
+        <b>Align: </b>
+        <img src="College center" alt="Vijaya College">
+        <b>SA Hay History:</b>
+        <a href="HistoryLamy">History</a> |
+        <a href="DeptHimCoursesOffered">Courses Offered</a>
+    </p>
+    <center>
+        <a href="Search">Search</a> |
+        <a href="ApplicationHtml">Application Form 2023-24</a>
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vijaya College</title>
+</head>
+
+<body style="background-color: #889900; color: black;">
+    <br>&nbsp;&nbsp;Vijaya College</b>
+    <h2><u><b>History</b></u></h2>
+    <p>
+        Vijaya College is situated in Basavanagudi, known for its old-world charm and traditional culture.
+        Established in 1945, it is a well-known landmark in South Bengaluru.
+    </p>
+    <center>
+        <img src="vijaya.jpg" width="300" height="300" alt="Vijaya College">
+    </center>
+    <center>
+        <a href="dept.html">Departments</a> |
+        <a href="home.html">Home Page</a>
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vijaya College</title>
+</head>
+
+<body bgcolor="#FF9933" text="black">
+    <h1>&nbsp;&nbsp;&nbsp;<center>Vijaya College</center></h1><br>
+
+    <center>
+        <img src="VijayaImage.jpg" width="300" height="200" alt="Vijaya College">
+    </center>
+
+    <center>
+        Welcome to <em>Vijaya College</em>.
+    </center>
+
+    <p style="color: blue;">Courses Offered:</p>
+
+    <ul>
+        <li><em>B.COM</em></li>
+        <li>BCA</li>
+        <li><em>BBA</em></li>
+    </ul>
+
+    <center>
+        <a href="home.html">Home Page</a>
+    </center>
+</body>
+
+</html>
+
+
+
+
+
+
+4>alert box
+<html>
+
+<head>
+    <title>JavaScript Alert and Prompt</title>
+</head>
+
+<body>
+    <script>
+        var result = confirm("Good morning! Click OK to enter the web page!");
+
+        if (result) {
+            document.write("you clicked OK to enter the web page!");
+            document.write("<br>");
+            var name = prompt("Please enter your name:");
+
+            if (name !== null && name.trim() !== "" && name.length <= 20) {
+                document.write("Hi, " + name + "!");
+            } else {
+                document.write("Hi, Anonymous!");
+            }
+        } else {
+            document.write("Goodbye!");
+        }
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+5>arithmetic
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script>
+    function calculate() {
+      var numOne = parseFloat(document.getElementById("one").value);
+      var numTwo = parseFloat(document.getElementById("two").value);
+      var xes = 0;
+
+      if (!isNaN(numOne) && !isNaN(numTwo)) {
+        xes = numOne + numTwo;
+        document.getElementById("add").value = xes;
+
+        xes = numOne - numTwo;
+        document.getElementById("subtract").value = xes;
+
+        xes = numOne * numTwo;
+        document.getElementById("multiply").value = xes;
+(No Title)
+You sent
+if (numTwo !== 0) {
+          xes = numOne / numTwo;
+          document.getElementById("divide").value = xes;
+        } else {
+          document.getElementById("divide").value = "Cannot divide by zero";
+        }
+
+        document.getElementById("xes").style.display = "block";
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <p id="input">Enter First Number: <input id="one"></p>
+  <p>Enter Second Number: <input id="two"></p>
+  <p><button onclick="calculate()">Calculate</button></p>
+
+  <p id="xes" style="display: none;">
+    Addition Result = <input id="add"><br /><br />
+    Subtraction Result = <input id="subtract"><br /><br />
+    Multiplication Result = <input id="multiply"><br /><br />
+    Division Result = <input id="divide">
+  </p>
+</body>
+
+</html>
+
+
+
+
+6>application form
+
+
+<html>
+<head>
+<title>application form</title>
+</head>
+<body bgcolor="white" text="black">
+<center>
+<h1>APPLICATION FORM</h1></center>
+<hr size="5" color="black"></br></br>
+<form action=" " Methoed="get">
+<pre>
+NAME:<input type="text" name="sname" size="35" maxlength="35"></br>
+FATHER NAME:<input type="text" name="fname" size="35" maxlength="35"></br>
+MOTHER NAME:<input type="text" name="mname" size="35" maxlength="35"></br>
+ADDRESS:<input type="text area" name="addr" size="35" maxlength="35"></br>
+SEX:<input type="radio" name="sex" value="male">MALE<input type="radio" name="sex" value="female">FEMALE</br>
+AGE:<input type="text" name="age" size="3" maxlength="2"></br>
+DATE OF BIRTH:<input type="date" name="dob"></br>
+COURSE:<select name="course">
+<option>select</option>
+<option>BCA</option>
+<option>BBA</option>
+<option>B.COM</option></select></br>
+TOTAL MARKS:<input type="text" name="sname" maxlength="3"></br>
+NEWSPAPER:<input type="check box" checked="checked"/></br>
+<center><input type="submit" value="accept"></br>
+<input type="reset"  value="reject"></center>
+</pre>
+</body>
+</html>
+
+
+
+7>css style
+
+
+
+
+<html>
+<head>
+<title>internet styles</title>
+<link rel="stylesheet" type="text/CSS"href="style.css"/>
+<style type="text/CSS">
+h1{color:red;text-decoration:underline;}
+h2{color:yellow;text-decoation:underline;}
+p.a{color:black;border-style:dotted;}
+</style>
+</head>
+<body>
+<center><font size="4.4">INTERNET TECHNOLOGY</font></center>
+<h1 style="color:blue;tect-decoration:overline>HTML</h1>
+<p>HTML is hyper text markup language</p>
+<p class="a">html is not case sensitive</p>
+<h2>XHTML</h2>
+<p>xhtml is xtensible hyper text markup language</p>
+</body>
+</html>
+
+body{background:pink;}
+p{color:red;border-style:dashed;}
+h3{color:violet;text-decoration:underline;}
+h2{color:purple;text-decoration:underline;}
